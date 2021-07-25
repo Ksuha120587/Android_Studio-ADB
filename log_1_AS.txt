@@ -1,0 +1,189 @@
+2021-07-25 01:59:57.605 5922-6189/? D/PowerCheckerService: foreground, uid = 10304, app = com.android.todolist
+2021-07-25 02:01:06.264 5922-6189/? D/PowerCheckerService: foreground, uid = 10304, app = com.android.todolist
+2021-07-25 02:01:17.332 5922-6189/? D/PowerCheckerService: foreground, uid = 10304, app = com.android.todolist
+2021-07-25 02:04:19.855 5922-6189/? D/PowerCheckerService: foreground, uid = 10304, app = com.android.todolist
+2021-07-25 02:04:31.619 5922-6189/? D/PowerCheckerService: foreground, uid = 10304, app = com.android.todolist
+2021-07-25 02:07:17.486 5922-6189/? D/PowerCheckerService: foreground, uid = 10304, app = com.android.todolist
+2021-07-25 02:07:18.198 1773-3645/? V/MiuiActivityTaskManagerServiceEx: dispatchActivityLifeState r = ActivityRecord{d0f23a9 u0 com.android.todolist/.MainActivity t4867}
+2021-07-25 02:07:18.201 2897-2897/? D/RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+2021-07-25 02:07:18.201 2897-2897/? W/RecentsImpl: onResumed className=com.android.todolist.MainActivity   mIsInAnotherPro=false
+2021-07-25 02:07:18.217 2897-2897/? W/RecentsImpl: getTopActivity from observer.   cn=ComponentInfo{com.android.todolist/com.android.todolist.MainActivity}
+2021-07-25 02:07:18.217 2897-2897/? W/RecentsImpl: adaptToTopActivity   cn=ComponentInfo{com.android.todolist/com.android.todolist.MainActivity}
+2021-07-25 02:07:18.217 2897-2897/? W/RecentsImpl: onResumed className=com.android.todolist.MainActivity   mIsInAnotherPro=false
+2021-07-25 02:07:18.230 1070-1070/? D/SurfaceFlinger: SaveSurfaceName=com.android.todolist/com.android.todolist.MainActivity composed
+2021-07-25 02:07:18.296 1773-4262/? D/MIUIInput: [FoucsChange]: Display  0 FocusedWindow From null(0,0)  to Window{84cfd31 mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.MainActivity}(1,1)
+2021-07-25 02:07:18.495 1773-1880/? I/Timeline: Timeline: Activity_windows_visible id: ActivityRecord{d0f23a9 u0 com.android.todolist/.MainActivity t4867} time:132570326
+2021-07-25 02:07:19.897 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132571725, channel '84cfd31 com.android.todolist/com.android.todolist.MainActivity (server)'
+2021-07-25 02:07:19.949 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132571778, channel '84cfd31 com.android.todolist/com.android.todolist.MainActivity (server)'
+2021-07-25 02:07:20.087 1773-1837/? D/MIUIInput: [FoucsChange]: Display  0 FocusedWindow From Window{84cfd31 mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.MainActivity}(1,0)  to null(0,0)
+2021-07-25 02:07:20.098 1773-1837/? V/WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{7867a mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.MainActivity}, surfaceController Surface(name=com.android.todolist/com.android.todolist.MainActivity)/@0x98c6ad2
+2021-07-25 02:07:20.153 1773-4262/? D/MIUIInput: [FoucsChange]: Display  0 FocusedWindow From null(0,0)  to Window{7867a mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.MainActivity}(1,1)
+2021-07-25 02:07:22.765 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132574593, channel '7867a com.android.todolist/com.android.todolist.MainActivity (server)'
+2021-07-25 02:07:22.824 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132574654, channel '7867a com.android.todolist/com.android.todolist.MainActivity (server)'
+2021-07-25 02:07:22.845 9999-9999/com.android.todolist V/TextView: sendCursorInfo support:false
+2021-07-25 02:07:22.865 4135-4135/? I/AndroidIME: AbstractIme.onActivate():86 LatinIme.onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Enable : Suggestion = Show : AutoCorrection = Enable : Microphone = Show : NoPersonalizedLearning = Disable : AutoStartVoiceInput = Disable : AutoStartEmojiInput = Disable : SimulateDeviceLocked = False : imeActionName = DONE : imeOptions = 6 : privateImeOptions = null, IncognitoMode = false, DeviceLocked = false
+2021-07-25 02:07:22.873 9999-9999/com.android.todolist E/ndroid.todolis: Invalid ID 0x00000000.
+2021-07-25 02:07:22.877 9999-9999/com.android.todolist I/AssistStructure: Flattened final assist data: 3080 bytes, containing 2 windows, 25 views
+2021-07-25 02:07:22.973 3133-9818/? W/mzu: Infinite Data has no result for 9677661882425161_com.android.todolist [CONTEXT service_id=177 ]
+2021-07-25 02:07:23.004 3133-8912/? W/mzu: Infinite Data has no result for 9677661882425161_com.android.todolist [CONTEXT service_id=177 ]
+2021-07-25 02:07:25.746 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132577574, channel '7867a com.android.todolist/com.android.todolist.MainActivity (server)'
+2021-07-25 02:07:25.794 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132577623, channel '7867a com.android.todolist/com.android.todolist.MainActivity (server)'
+2021-07-25 02:07:25.835 9999-10024/com.android.todolist D/OpenGLRenderer: endAllActiveAnimators on 0x76de89fa00 (RippleDrawable) with handle 0x773d8da020
+2021-07-25 02:07:25.855 1773-4262/? D/MIUIInput: [FoucsChange]: Display  0 FocusedWindow From Window{7867a mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.MainActivity}(1,1)  to null(0,0)
+2021-07-25 02:07:25.885 1773-3645/? D/MIUIInput: [FoucsChange]: Display  0 FocusedWindow From null(0,0)  to Window{84cfd31 mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.MainActivity}(1,1)
+2021-07-25 02:07:28.559 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132580387, channel '84cfd31 com.android.todolist/com.android.todolist.MainActivity (server)'
+2021-07-25 02:07:28.614 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132580443, channel '84cfd31 com.android.todolist/com.android.todolist.MainActivity (server)'
+2021-07-25 02:07:28.624 9999-9999/com.android.todolist D/CompatibilityChangeReporter: Compat change id reported: 147798919; UID 10304; state: DISABLED
+2021-07-25 02:07:28.657 9999-9999/com.android.todolist I/Timeline: Timeline: Activity_launch_request time:132580487
+2021-07-25 02:07:28.663 1773-4268/? I/ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10304
+2021-07-25 02:07:28.695 9999-9999/com.android.todolist I/Toast: Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+2021-07-25 02:07:28.697 1773-3645/? I/ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 9999
+2021-07-25 02:07:28.725 1773-4268/? D/MIUIInput: [FoucsChange]: Display  0 FocusedWindow From Window{84cfd31 mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.MainActivity}(1,1)  to null(0,0)
+2021-07-25 02:07:28.811 1773-4262/? V/MiuiActivityTaskManagerServiceEx: dispatchActivityLifeState r = ActivityRecord{12f2d51 u0 com.android.todolist/.ListActivity t4867}
+2021-07-25 02:07:28.811 2897-2897/? D/RecentsImpl: mActivityStateObserver com.android.todolist.ListActivity
+2021-07-25 02:07:28.811 2897-2897/? W/RecentsImpl: onResumed className=com.android.todolist.ListActivity   mIsInAnotherPro=false
+2021-07-25 02:07:28.854 1773-4265/? V/WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{963e09a mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.ListActivity}, surfaceController Surface(name=com.android.todolist/com.android.todolist.ListActivity)/@0x20f6c66
+2021-07-25 02:07:28.895 1773-1921/? I/ActivityTaskManager: Displayed com.android.todolist/.ListActivity: +234ms
+2021-07-25 02:07:28.905 1773-4265/? D/MIUIInput: [FoucsChange]: Display  0 FocusedWindow From null(0,0)  to Window{963e09a mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.ListActivity}(1,1)
+2021-07-25 02:07:29.401 1773-1880/? I/Timeline: Timeline: Activity_windows_visible id: ActivityRecord{12f2d51 u0 com.android.todolist/.ListActivity t4867} time:132581231
+2021-07-25 02:07:29.805 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132581633, channel '963e09a com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:07:29.870 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132581699, channel '963e09a com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:07:29.879 9999-9999/com.android.todolist I/System.out: h en 1
+2021-07-25 02:07:30.680 1773-3645/? W/NotificationService: Toast already killed. pkg=com.android.todolist token=android.os.BinderProxy@52c2c69
+2021-07-25 02:07:36.078 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132587907, channel '963e09a com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:07:36.131 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132587960, channel '963e09a com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:07:36.163 9999-9999/com.android.todolist V/TextView: sendCursorInfo support:false
+2021-07-25 02:07:36.185 4135-4135/? I/AndroidIME: AbstractIme.onActivate():86 LatinIme.onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Enable : Suggestion = Show : AutoCorrection = Enable : Microphone = Show : NoPersonalizedLearning = Disable : AutoStartVoiceInput = Disable : AutoStartEmojiInput = Disable : SimulateDeviceLocked = False : imeActionName = DONE : imeOptions = 6 : privateImeOptions = null, IncognitoMode = false, DeviceLocked = false
+2021-07-25 02:07:36.244 9999-9999/com.android.todolist E/ndroid.todolis: Invalid ID 0x00000000.
+2021-07-25 02:07:36.247 9999-9999/com.android.todolist I/AssistStructure: Flattened final assist data: 1516 bytes, containing 1 windows, 10 views
+2021-07-25 02:07:36.366 3133-10661/? W/mzu: Infinite Data has no result for 9677661882425161_com.android.todolist [CONTEXT service_id=177 ]
+2021-07-25 02:07:36.369 3133-9818/? W/mzu: Infinite Data has no result for 9677661882425161_com.android.todolist [CONTEXT service_id=177 ]
+2021-07-25 02:07:38.636 4135-4135/? I/AndroidIME: AbstractIme.onActivate():86 PasswordIme.onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Disable : Suggestion = Show : AutoCorrection = Disable : Microphone = Show : NoPersonalizedLearning = Disable : AutoStartVoiceInput = Disable : AutoStartEmojiInput = Disable : SimulateDeviceLocked = False : imeActionName = UNSPECIFIED : imeOptions = 0 : privateImeOptions = null, IncognitoMode = false, DeviceLocked = false
+2021-07-25 02:07:43.619 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132595448, channel '963e09a com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:07:43.704 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132595534, channel '963e09a com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:07:44.554 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132596383, channel '963e09a com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:07:44.651 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132596480, channel '963e09a com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:07:45.483 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132597312, channel '963e09a com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:07:45.561 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132597390, channel '963e09a com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:07:48.637 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132600465, channel '963e09a com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:07:48.685 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132600514, channel '963e09a com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:07:48.702 9999-9999/com.android.todolist I/Timeline: Timeline: Activity_launch_request time:132600533
+2021-07-25 02:07:48.707 1773-5598/? I/ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10304
+2021-07-25 02:07:48.743 1773-5598/? I/ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 9999
+2021-07-25 02:07:48.775 1773-4268/? D/MIUIInput: [FoucsChange]: Display  0 FocusedWindow From Window{963e09a mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.ListActivity}(1,1)  to null(0,0)
+2021-07-25 02:07:48.810 1773-4268/? V/MiuiActivityTaskManagerServiceEx: dispatchActivityLifeState r = ActivityRecord{35e281 u0 com.android.todolist/.MainActivity t4867}
+2021-07-25 02:07:48.810 2897-2897/? D/RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+2021-07-25 02:07:48.810 2897-2897/? W/RecentsImpl: onResumed className=com.android.todolist.MainActivity   mIsInAnotherPro=false
+2021-07-25 02:07:48.845 1773-4268/? V/WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{8710914 mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.MainActivity}, surfaceController Surface(name=com.android.todolist/com.android.todolist.MainActivity)/@0x56d7b2
+2021-07-25 02:07:48.914 1773-1921/? I/ActivityTaskManager: Displayed com.android.todolist/.MainActivity: +208ms
+2021-07-25 02:07:48.923 1773-4268/? D/MIUIInput: [FoucsChange]: Display  0 FocusedWindow From null(0,0)  to Window{8710914 mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.MainActivity}(1,1)
+2021-07-25 02:07:49.418 1773-1880/? I/Timeline: Timeline: Activity_windows_visible id: ActivityRecord{35e281 u0 com.android.todolist/.MainActivity t4867} time:132601248
+2021-07-25 02:07:49.995 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132601824, channel '8710914 com.android.todolist/com.android.todolist.MainActivity (server)'
+2021-07-25 02:07:50.077 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132601906, channel '8710914 com.android.todolist/com.android.todolist.MainActivity (server)'
+2021-07-25 02:07:50.117 9999-9999/com.android.todolist I/Timeline: Timeline: Activity_launch_request time:132601948
+2021-07-25 02:07:50.119 1773-3645/? I/ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10304
+2021-07-25 02:07:50.145 9999-9999/com.android.todolist I/Toast: Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+2021-07-25 02:07:50.148 1773-3645/? I/ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 9999
+2021-07-25 02:07:50.171 1773-4268/? D/MIUIInput: [FoucsChange]: Display  0 FocusedWindow From Window{8710914 mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.MainActivity}(1,1)  to null(0,0)
+2021-07-25 02:07:50.247 1773-4265/? V/MiuiActivityTaskManagerServiceEx: dispatchActivityLifeState r = ActivityRecord{f1cd2dc u0 com.android.todolist/.ListActivity t4867}
+2021-07-25 02:07:50.247 2897-2897/? D/RecentsImpl: mActivityStateObserver com.android.todolist.ListActivity
+2021-07-25 02:07:50.247 2897-2897/? W/RecentsImpl: onResumed className=com.android.todolist.ListActivity   mIsInAnotherPro=false
+2021-07-25 02:07:50.275 1773-5598/? V/WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{663af99 mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.ListActivity}, surfaceController Surface(name=com.android.todolist/com.android.todolist.ListActivity)/@0x2b6ac55
+2021-07-25 02:07:50.311 1773-1921/? I/ActivityTaskManager: Displayed com.android.todolist/.ListActivity: +190ms
+2021-07-25 02:07:50.320 1773-4265/? D/MIUIInput: [FoucsChange]: Display  0 FocusedWindow From null(0,0)  to Window{663af99 mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.ListActivity}(1,1)
+2021-07-25 02:07:50.815 1773-1880/? I/Timeline: Timeline: Activity_windows_visible id: ActivityRecord{f1cd2dc u0 com.android.todolist/.ListActivity t4867} time:132602645
+2021-07-25 02:07:51.996 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132603824, channel '663af99 com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:07:52.077 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132603907, channel '663af99 com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:07:52.105 9999-9999/com.android.todolist V/TextView: sendCursorInfo support:false
+2021-07-25 02:07:52.117 4135-4135/? I/AndroidIME: AbstractIme.onActivate():86 LatinIme.onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Enable : Suggestion = Show : AutoCorrection = Enable : Microphone = Show : NoPersonalizedLearning = Disable : AutoStartVoiceInput = Disable : AutoStartEmojiInput = Disable : SimulateDeviceLocked = False : imeActionName = DONE : imeOptions = 6 : privateImeOptions = null, IncognitoMode = false, DeviceLocked = false
+2021-07-25 02:07:52.156 1773-4265/? W/NotificationService: Toast already killed. pkg=com.android.todolist token=android.os.BinderProxy@abbcf40
+2021-07-25 02:07:52.160 9999-9999/com.android.todolist E/ndroid.todolis: Invalid ID 0x00000000.
+2021-07-25 02:07:52.170 9999-9999/com.android.todolist I/AssistStructure: Flattened final assist data: 1516 bytes, containing 1 windows, 10 views
+2021-07-25 02:07:52.230 3133-10661/? W/mzu: Infinite Data has no result for 9677661882425161_com.android.todolist [CONTEXT service_id=177 ]
+2021-07-25 02:07:52.231 3133-9818/? W/mzu: Infinite Data has no result for 9677661882425161_com.android.todolist [CONTEXT service_id=177 ]
+2021-07-25 02:07:52.233 3133-10692/? W/mzu: Infinite Data has no result for 9677661882425161_com.android.todolist [CONTEXT service_id=177 ]
+2021-07-25 02:07:52.235 3133-10692/? W/mzu: Infinite Data has no result for 9677661882425161_com.android.todolist [CONTEXT service_id=177 ]
+2021-07-25 02:07:54.614 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132606442, channel '663af99 com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:07:54.679 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132606508, channel '663af99 com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:07:55.499 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132607327, channel '663af99 com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:07:55.554 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132607384, channel '663af99 com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:07:56.724 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132608553, channel '663af99 com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:07:56.809 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132608638, channel '663af99 com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:07:56.869 4135-4135/? I/AndroidIME: AbstractIme.onActivate():86 LatinIme.onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Enable : Suggestion = Show : AutoCorrection = Enable : Microphone = Show : NoPersonalizedLearning = Disable : AutoStartVoiceInput = Disable : AutoStartEmojiInput = Disable : SimulateDeviceLocked = False : imeActionName = NEXT : imeOptions = 8000005 : privateImeOptions = null, IncognitoMode = false, DeviceLocked = false
+2021-07-25 02:07:59.168 4135-4135/? I/AndroidIME: AbstractIme.onActivate():86 PasswordIme.onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Disable : Suggestion = Show : AutoCorrection = Disable : Microphone = Show : NoPersonalizedLearning = Disable : AutoStartVoiceInput = Disable : AutoStartEmojiInput = Disable : SimulateDeviceLocked = False : imeActionName = UNSPECIFIED : imeOptions = 0 : privateImeOptions = null, IncognitoMode = false, DeviceLocked = false
+2021-07-25 02:07:59.872 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132611700, channel '663af99 com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:07:59.927 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132611756, channel '663af99 com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:08:00.994 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132612822, channel '663af99 com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:08:01.073 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132612903, channel '663af99 com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:08:02.043 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132613872, channel '663af99 com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:08:02.119 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132613948, channel '663af99 com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:08:02.134 9999-9999/com.android.todolist I/Timeline: Timeline: Activity_launch_request time:132613965
+2021-07-25 02:08:02.138 1773-4262/? I/ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10304
+2021-07-25 02:08:02.176 1773-3645/? I/ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 9999
+2021-07-25 02:08:02.210 1773-4262/? D/MIUIInput: [FoucsChange]: Display  0 FocusedWindow From Window{663af99 mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.ListActivity}(1,1)  to null(0,0)
+2021-07-25 02:08:02.237 1773-4262/? V/MiuiActivityTaskManagerServiceEx: dispatchActivityLifeState r = ActivityRecord{45ef532 u0 com.android.todolist/.MainActivity t4867}
+2021-07-25 02:08:02.238 2897-2897/? D/RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+2021-07-25 02:08:02.238 2897-2897/? W/RecentsImpl: onResumed className=com.android.todolist.MainActivity   mIsInAnotherPro=false
+2021-07-25 02:08:02.269 1773-4262/? V/WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{3a23c39 mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.MainActivity}, surfaceController Surface(name=com.android.todolist/com.android.todolist.MainActivity)/@0x7b313df
+2021-07-25 02:08:02.335 1773-1921/? I/ActivityTaskManager: Displayed com.android.todolist/.MainActivity: +196ms
+2021-07-25 02:08:02.341 1773-4262/? D/MIUIInput: [FoucsChange]: Display  0 FocusedWindow From null(0,0)  to Window{3a23c39 mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.MainActivity}(1,1)
+2021-07-25 02:08:02.834 1773-1880/? I/Timeline: Timeline: Activity_windows_visible id: ActivityRecord{45ef532 u0 com.android.todolist/.MainActivity t4867} time:132614665
+2021-07-25 02:08:03.620 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132615449, channel '3a23c39 com.android.todolist/com.android.todolist.MainActivity (server)'
+2021-07-25 02:08:03.690 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132615518, channel '3a23c39 com.android.todolist/com.android.todolist.MainActivity (server)'
+2021-07-25 02:08:03.724 9999-9999/com.android.todolist I/Timeline: Timeline: Activity_launch_request time:132615554
+2021-07-25 02:08:03.726 1773-4268/? I/ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10304
+2021-07-25 02:08:03.751 9999-9999/com.android.todolist I/Toast: Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+2021-07-25 02:08:03.754 1773-4268/? I/ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 9999
+2021-07-25 02:08:03.769 1773-3645/? D/MIUIInput: [FoucsChange]: Display  0 FocusedWindow From Window{3a23c39 mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.MainActivity}(1,1)  to null(0,0)
+2021-07-25 02:08:03.844 1773-5598/? V/MiuiActivityTaskManagerServiceEx: dispatchActivityLifeState r = ActivityRecord{4b360e1 u0 com.android.todolist/.ListActivity t4867}
+2021-07-25 02:08:03.844 2897-2897/? D/RecentsImpl: mActivityStateObserver com.android.todolist.ListActivity
+2021-07-25 02:08:03.844 2897-2897/? W/RecentsImpl: onResumed className=com.android.todolist.ListActivity   mIsInAnotherPro=false
+2021-07-25 02:08:03.874 1773-5598/? V/WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{77a83ea mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.ListActivity}, surfaceController Surface(name=com.android.todolist/com.android.todolist.ListActivity)/@0x74f4b6
+2021-07-25 02:08:03.908 1773-1921/? I/ActivityTaskManager: Displayed com.android.todolist/.ListActivity: +180ms
+2021-07-25 02:08:03.918 1773-4268/? D/MIUIInput: [FoucsChange]: Display  0 FocusedWindow From null(0,0)  to Window{77a83ea mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.ListActivity}(1,1)
+2021-07-25 02:08:04.414 1773-1880/? I/Timeline: Timeline: Activity_windows_visible id: ActivityRecord{4b360e1 u0 com.android.todolist/.ListActivity t4867} time:132616244
+2021-07-25 02:08:05.580 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132617409, channel '77a83ea com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:08:05.588 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132617417, channel '77a83ea com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:08:05.611 9999-9999/com.android.todolist V/TextView: sendCursorInfo support:false
+2021-07-25 02:08:05.626 4135-4135/? I/AndroidIME: AbstractIme.onActivate():86 LatinIme.onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Enable : Suggestion = Show : AutoCorrection = Enable : Microphone = Show : NoPersonalizedLearning = Disable : AutoStartVoiceInput = Disable : AutoStartEmojiInput = Disable : SimulateDeviceLocked = False : imeActionName = DONE : imeOptions = 6 : privateImeOptions = null, IncognitoMode = false, DeviceLocked = false
+2021-07-25 02:08:05.654 9999-9999/com.android.todolist E/ndroid.todolis: Invalid ID 0x00000000.
+2021-07-25 02:08:05.656 9999-9999/com.android.todolist I/AssistStructure: Flattened final assist data: 1516 bytes, containing 1 windows, 10 views
+2021-07-25 02:08:05.750 3133-10692/? W/mzu: Infinite Data has no result for 9677661882425161_com.android.todolist [CONTEXT service_id=177 ]
+2021-07-25 02:08:05.753 3133-10718/? W/mzu: Infinite Data has no result for 9677661882425161_com.android.todolist [CONTEXT service_id=177 ]
+2021-07-25 02:08:05.753 1773-3645/? W/NotificationService: Toast already killed. pkg=com.android.todolist token=android.os.BinderProxy@cd5a369
+2021-07-25 02:08:09.285 4135-4135/? I/AndroidIME: AbstractIme.onActivate():86 PasswordIme.onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Disable : Suggestion = Show : AutoCorrection = Disable : Microphone = Show : NoPersonalizedLearning = Disable : AutoStartVoiceInput = Disable : AutoStartEmojiInput = Disable : SimulateDeviceLocked = False : imeActionName = UNSPECIFIED : imeOptions = 0 : privateImeOptions = null, IncognitoMode = false, DeviceLocked = false
+2021-07-25 02:08:10.178 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132622006, channel '77a83ea com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:08:10.242 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132622071, channel '77a83ea com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:08:11.321 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132623150, channel '77a83ea com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:08:11.410 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132623239, channel '77a83ea com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:08:12.342 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132624170, channel '77a83ea com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:08:12.427 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132624256, channel '77a83ea com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:08:13.882 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132625710, channel '77a83ea com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:08:13.965 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132625795, channel '77a83ea com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:08:14.017 4135-4135/? I/AndroidIME: AbstractIme.onActivate():86 LatinIme.onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Enable : Suggestion = Show : AutoCorrection = Enable : Microphone = Show : NoPersonalizedLearning = Disable : AutoStartVoiceInput = Disable : AutoStartEmojiInput = Disable : SimulateDeviceLocked = False : imeActionName = DONE : imeOptions = 6 : privateImeOptions = null, IncognitoMode = false, DeviceLocked = false
+2021-07-25 02:08:16.583 4135-4135/? I/AndroidIME: AbstractIme.onActivate():86 PasswordIme.onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Disable : Suggestion = Show : AutoCorrection = Disable : Microphone = Show : NoPersonalizedLearning = Disable : AutoStartVoiceInput = Disable : AutoStartEmojiInput = Disable : SimulateDeviceLocked = False : imeActionName = UNSPECIFIED : imeOptions = 0 : privateImeOptions = null, IncognitoMode = false, DeviceLocked = false
+2021-07-25 02:08:17.324 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132629152, channel '77a83ea com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:08:17.376 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132629205, channel '77a83ea com.android.todolist/com.android.todolist.ListActivity (server)'
+2021-07-25 02:08:17.393 9999-9999/com.android.todolist I/Timeline: Timeline: Activity_launch_request time:132629223
+2021-07-25 02:08:17.396 1773-3645/? I/ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10304
+2021-07-25 02:08:17.422 1773-4262/? I/ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 9999
+2021-07-25 02:08:17.453 1773-4262/? D/MIUIInput: [FoucsChange]: Display  0 FocusedWindow From Window{77a83ea mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.ListActivity}(1,1)  to null(0,0)
+2021-07-25 02:08:17.479 1773-4262/? V/MiuiActivityTaskManagerServiceEx: dispatchActivityLifeState r = ActivityRecord{b5b925a u0 com.android.todolist/.MainActivity t4867}
+2021-07-25 02:08:17.480 2897-2897/? D/RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+2021-07-25 02:08:17.480 2897-2897/? W/RecentsImpl: onResumed className=com.android.todolist.MainActivity   mIsInAnotherPro=false
+2021-07-25 02:08:17.509 1773-4262/? V/WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{42eb981 mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.MainActivity}, surfaceController Surface(name=com.android.todolist/com.android.todolist.MainActivity)/@0xc3fc667
+2021-07-25 02:08:17.573 1773-1921/? I/ActivityTaskManager: Displayed com.android.todolist/.MainActivity: +175ms
+2021-07-25 02:08:17.584 1773-3645/? D/MIUIInput: [FoucsChange]: Display  0 FocusedWindow From null(0,0)  to Window{42eb981 mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.MainActivity}(1,1)
+2021-07-25 02:08:18.079 1773-1880/? I/Timeline: Timeline: Activity_windows_visible id: ActivityRecord{b5b925a u0 com.android.todolist/.MainActivity t4867} time:132629909
+2021-07-25 02:08:18.601 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132630430, channel '42eb981 com.android.todolist/com.android.todolist.MainActivity (server)'
+2021-07-25 02:08:18.649 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132630479, channel '42eb981 com.android.todolist/com.android.todolist.MainActivity (server)'
+2021-07-25 02:08:20.575 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132632404, channel '42eb981 com.android.todolist/com.android.todolist.MainActivity (server)'
+2021-07-25 02:08:20.636 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132632465, channel '42eb981 com.android.todolist/com.android.todolist.MainActivity (server)'
+2021-07-25 02:08:20.756 1773-3645/? V/WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{e630d9d mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.MainActivity}, surfaceController Surface(name=com.android.todolist/com.android.todolist.MainActivity)/@0x403b53f
+2021-07-25 02:08:20.772 1773-1837/? D/MIUIInput: [FoucsChange]: Display  0 FocusedWindow From Window{42eb981 mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.MainActivity}(1,0)  to null(0,0)
+2021-07-25 02:08:20.822 1773-5598/? D/MIUIInput: [FoucsChange]: Display  0 FocusedWindow From null(0,0)  to Window{e630d9d mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.MainActivity}(1,1)
+2021-07-25 02:08:22.720 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x0, 132634549, channel 'e630d9d com.android.todolist/com.android.todolist.MainActivity (server)'
+2021-07-25 02:08:22.822 1773-2269/? D/MIUIInput: [MotionEvent] publisher action=0x1, 132634652, channel 'e630d9d com.android.todolist/com.android.todolist.MainActivity (server)'
+2021-07-25 02:08:22.858 9999-10024/com.android.todolist D/OpenGLRenderer: endAllActiveAnimators on 0x76de93f000 (RippleDrawable) with handle 0x773e4350a0
+2021-07-25 02:08:22.875 1773-5351/? D/MIUIInput: [FoucsChange]: Display  0 FocusedWindow From Window{e630d9d mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.MainActivity}(1,1)  to null(0,0)
+2021-07-25 02:08:22.925 1773-5351/? D/MIUIInput: [FoucsChange]: Display  0 FocusedWindow From null(0,0)  to Window{42eb981 mode=0 rootTaskId=4867 u0 com.android.todolist/com.android.todolist.MainActivity}(1,1)
